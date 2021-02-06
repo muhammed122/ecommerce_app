@@ -11,6 +11,7 @@ An E-Commerce flutter appliacation that serve two types of users  admin who can 
 <br>
    Authentication: to manage sign up and login process
 <br>
+
 Provider:to state management
 <br>
 Stream builder: to get realtime updates in database 
