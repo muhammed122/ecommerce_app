@@ -1,16 +1,22 @@
 # ecommerce_flutter
 
-A new Flutter application.
+<h2> About project </h2>
 
-## Getting Started
+An E-Commerce flutter appliacation that serve two types of users  admin who can manage products and customer show,get info and add make order to any available products
 
-This project is a starting point for a Flutter application.
+<h2>Built With </h2>
 
-A few resources to get you started if this is your first Flutter project:
+<h5> Firebase </h5>
+   FireStore:to save and organize data
+<br>
+   Authentication: to manage sign up and login process
+<br>
+Provider:to state management
+<br>
+Stream builder: to get realtime updates in database 
+<br>
+Sharedperefences:to keep user logined if he wants
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
